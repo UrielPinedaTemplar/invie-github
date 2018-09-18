@@ -1,2 +1,4 @@
-# invie-github
-Proyecto invie, aprendiendo a usar github
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
